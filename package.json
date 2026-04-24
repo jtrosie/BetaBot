@@ -1,0 +1,14 @@
+{
+  "name": "betaworks-slack-bot",
+  "version": "1.0.0",
+  "description": "ASTRSK PR internal Slack bot for the Betaworks account",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "@slack/bolt": "^3.17.0",
+    "dotenv": "^16.4.0"
+  }
+}
