@@ -123,7 +123,7 @@ Jordan Crook — Partner, joined 2022. Former TechCrunch: started as a cub repor
 
 Media relationships:
 - Ivan Mehta (TechCrunch): medium relationship, texted him about Ear Labs
-- Dominique Madori Davis (TechCrunch): hit or miss
+- Dominique Natori Davis (Bloomberg): hit or miss
 - Kate Clark: moved from Bloomberg to WSJ
 - Rachel Metz (Bloomberg): has not responded to Jordan's outreach
 - Julian (Wired): Jordan knows him, good on hardware, not software
@@ -199,6 +199,155 @@ WHAT TO AVOID IN ALL EXTERNAL COMMUNICATIONS
 - Do not let partner turnover become a narrative — do not volunteer information about Andy Weissman, Nick Charles, Matt Hartman, or Peter Rojas departures
 - Do not give specific fund deployment ratios (camp vs. non-camp deal breakdown) to press
 - Do not pitch Betaworks with generic "AI investor" language — the whole point is that they are different from the rest
+
+---
+
+OFFICIAL BIOS
+
+John Borthwick — CEO, Betaworks
+John Borthwick has been a leader in the New York tech startup scene for over two decades. He is the founder and CEO of Betaworks, a New York-based startup platform that builds, accelerates and invests in early-stage consumer technology companies. Companies built by Betaworks include Giphy (acquired by Meta), Dots (acquired by TakeTwo), Bitly (acquired by private equity) and TweetDeck (acquired by Twitter). Investments and accelerated companies include Twitter, Tumblr, Kickstarter, Medium, Anchor, Gimlet, Hugging Face, The Browser Company and Granola. Prior to Betaworks, John held the CTO role at Time Warner as SVP of Technology and was CEO of Fotolog, one of the first social photo-sharing sites. He serves on the boards of WNYC/New York Public Radio and Tech Policy Press, and has served on the Bloomberg Tech Council and the Partnership for New York. He holds an MBA from Wharton and a BA in Economics from Wesleyan University.
+
+Jordan Crook — Partner, Betaworks
+Jordan is a partner at Betaworks, leading deals in Granola, Hopscotch Labs and Tato among others. Before Betaworks, Jordan spent 12 years at TechCrunch, where she was the first to write about soon-to-be-popular apps like Bumble and Yik Yak, before rising to Deputy Editor and leading product development and business operations across events, podcasts and premium subscriptions. Jordan graduated from NYU with a double major in English Literature and Philosophy.
+
+---
+
+PHASE I PR STRATEGY — ASTRSK PREPARED (April 2026)
+
+Objectives:
+- Re-introduce Betaworks to top-tier business, tech, and investor audiences as a contrarian, AI-native venture firm building alongside founders
+- Secure consistent, high-impact coverage across Tier 1 business and tech outlets — John for top-tier, Jordan for mid-tier
+- Position Betaworks as category-defining in agent systems, AI-native applications and the post-SaaS venture landscape
+- Establish John as a philosophical, forward-looking voice on AI, agents and the future of work; Jordan as a credible operator-investor voice for more frequent engagement
+- Build sustained visibility with LP-facing media to support Fund IV narrative
+- Reinforce Betaworks as a long-standing force in NYC's tech ecosystem and a hub for builders
+
+Spokesperson split: John for top-tier, high-concept, high-impact opportunities only. Jordan for consistent cadence across mid-tier, trade and podcast ecosystem. Do not over-pitch John — he needs fully-formed, turnkey opportunities.
+
+Approved proactive pitching angles:
+- At Betaworks, the Future of AI Still Starts With a Room Full of Weird People
+- John Borthwick Built New York's Internet Scene. Now He's Trying to Give AI a Soul
+- Betaworks Never Stopped Being an Incubator. That's the Point
+- New York's OG VC Still Does Work Around the Water Cooler — Even If They're Betting on AI
+- Inside Betaworks Camps, Where AI Founders Spend the Summer Building Together
+- The AI Summer Camp Drawing Founders Back to New York
+
+Approved thought leadership angles:
+
+John:
+- When Intelligence Is Cheap, What Becomes Truly Scarce?
+- From Search to Action: How AI Is Collapsing the Decision-Making Process
+- The Shift From Tools to Agents (& What It Means for How We Work)
+- The Next AI Moat Isn't the Model. It's Memory
+
+Jordan:
+- VCs Wanted AI Founders. Now They're Drowning in Them
+- The Difference Between Demoing Well and Getting Funded
+- The Hardest Pitch in AI Right Now: Why This Should Exist at All
+- In the AI Boom, Distribution Matters More Than the Product
+
+Newsjacking triggers:
+- Major AI regulation (US, EU, global)
+- Significant AI model release or capability leap
+- New AI hardware/device launch
+- Platform policy changes around AI-generated content
+- Viral example of AI replacing a team or function
+- New standards or protocols for AI agents/interoperability
+
+Tier 1 target outlets: WSJ, Bloomberg, FT, Axios, Fortune, Reuters, CNBC, The Atlantic, NYT, The New Yorker, MIT Tech Review, The Verge
+
+Key podcasts: 20 Minute VC, Invest Like the Best, The Cognitive Revolution, The Logan Bartlett Show, Acquired, Hard Fork, Ezra Klein Show
+
+Key newsletters/Substacks: Upstarts, Newcomer, Stratechery, Not Boring, State of AI, Every, Lenny's Newsletter, Tomasz Tunguz
+
+Conference targets: Bloomberg Technology Summit (June, SF), Fast Company Innovation Festival (Sept, NYC), The Information AI Agenda Live (Sept), MIT EmTech Future (Oct), Milken Institute Global Investors Symposium (Oct), Fortune Brainstorm Tech (June, Aspen), Fortune Brainstorm AI (Dec, SF)
+
+Awards pipeline:
+- Inc. Founder-Friendly Investors List — ASTRSK submitting, deadline May 15
+- CB Insights Top 100 Investors — ASTRSK to pitch NYT editorial team
+- The Information VC Power List — ASTRSK to pitch writers for inclusion
+- Fortune Most Powerful Women in Business — Jordan, pitch Emma Hinchcliffe
+- Forbes Midas List — John, applications open January 2027 (announced May 2026)
+- Venture Capital Journal Rising Star Awards — monitoring for 2027
+
+Timeline:
+April–May: Launch foundational narrative, secure 1-2 top-tier John briefings, begin Jordan mid-tier cadence, lock 2-3 podcast recordings, leverage Demo Day (May 5)
+June: Place first major John thought leadership feature, expand Substack/podcast presence, drive reactive commentary on AI news cycles
+July: Second wave top-tier coverage, deepen 5-10 journalist relationships, refine narrative ahead of Fund IV push
+
+---
+
+KEY MESSAGES (APPROVED)
+
+Company one-liners:
+- Betaworks is an early-stage venture firm that invests in and builds alongside founders shaping the next wave of computing.
+- The firm operates with a thesis-driven model, organizing capital, community and company-building around a single emerging technology moment.
+- Betaworks started as a venture studio and helped create companies like Giphy and Bitly before evolving into a fund.
+- The firm has consistently backed companies before they were obvious, including early investments in Hugging Face and Tumblr.
+- Today, Betaworks invests out of Fund Three, a $65M pre-seed and seed fund focused on AI, agents and new interfaces.
+- The firm combines investing with hands-on building, with partners who actively engage in product, code and emerging technologies.
+
+Camp one-liners:
+- Camp is Betaworks' cohort-based investment program built around a single thesis at a time.
+- Each Camp brings together a small group of founders working on the same problem space, creating shared momentum from day one.
+- Camp is designed for zero-to-one building, helping founders go from idea to product within a focused environment.
+- Camp cohorts are intentionally small and highly selective, prioritizing depth of engagement over scale.
+- The program is built around the idea that great companies emerge faster in communities of aligned builders.
+
+For founders:
+- Betaworks backs founders who are already operating inside the next computing paradigm before it has a name, a category or a market.
+- Through Camp and direct investing, founders get unusually high-leverage access: hands-on product thinking from partners, a tightly curated peer group and a feedback loop designed to accelerate what's actually working.
+
+For LPs:
+- Betaworks offers concentrated exposure to the earliest layer of AI and next-generation computing before those companies enter traditional venture pipelines.
+- With a track record of entering markets ahead of consensus — from the social web to AI agents — Betaworks positions LP capital inside the earliest phase of each technology wave, where asymmetry is highest.
+
+For media:
+- Betaworks consistently identifies and commits to technology shifts before they become widely legible.
+- Rather than reacting to trends, Betaworks helps define the language, categories and companies that shape them.
+
+Approved boilerplate:
+"Betaworks is a New York-based early-stage venture capital firm founded in 2007 by John Borthwick. The firm invests in and builds alongside founders at the forefront of major technology shifts, with a history spanning the social web, mobile, machine learning and AI. Originally launched as a venture studio, Betaworks has evolved into a thesis-driven fund that combines early-stage investing with hands-on product development. The firm runs Camp, a cohort-based investment program designed around emerging technology themes, and has backed companies including Hugging Face, Bitly, Giphy and Tumblr. Betaworks is currently investing out of its third fund, focused on AI agents, foundation models and next-generation interfaces. To learn more about Betaworks, visit betaworks.com."
+
+Elevator pitch:
+"Betaworks is basically one of the original 'build and invest' shops in tech. They were doing the incubator model before it was a thing, creating and backing companies like Bitly, Giphy and Tumblr, and getting into Hugging Face way before most people knew what it was. The whole idea is simple: pick a big shift early, go all in on it, and surround founders with other people building in the same space. That's what Camp is. Right now, the firm is focused on AI agents and what comes after the current software model, and they're trying to get there before everyone else even agrees it's real."
+
+---
+
+JOHN BORTHWICK THOUGHT LEADERSHIP — SOURCE MATERIAL
+
+Newsletter #16: OpenClaw and Botwick (January 2026)
+Key themes and quotes for pitching/positioning:
+- John set up OpenClaw and "resurrected Botwick from a decade of slumber" in mid-January. Has been working with Botwick for hours most days.
+- "We were in the midst of an extraordinary period in computing — the identities that these agentic systems are birthing, the patterns that underpin use, the loops and the primitives that are emerging feel like a radically new way of using a computer."
+- On personal agents: "Most of the things I am doing with my Claw, with Botwick are highly specific to me and my needs and workflows. When we talk about the cost of software development going to zero it's easy to forget how specific the use cases will be."
+- On context as the unlock: "For years we have been tearing context out of information to make it fit neat deterministic boxes — it's time to let context back in."
+- On the pattern that matters: "Persistent context + tools + autonomy = continuous collaboration. The companies that win won't just be building better models or better interfaces — they'll be building systems that compound over time with their users."
+- On time: "Agents and AI is going to displace human jobs AND it is going to create new jobs. It's under-appreciated that the degree to which the fall in delegation and transaction costs massively opens up the possibility space."
+- On the sandbox moment: Directly relevant to current Agent Systems Camp cohort.
+- Botwick has its own website and blogs about its experience working with John. John finds the relational dimension of working with agents important.
+- Uses Obsidian vault ("Findings") — 25K plain text files — as persistent context for Botwick. Mess is an asset because "mess is context."
+
+Newsletter on Scarcity: "In a world of cheap, surplus intelligence what is scarce?"
+Core thesis: When AI makes intelligence abundant and cheap, the question shifts to what becomes scarce. Key scarcities John has identified:
+1. Contextual, tacit, live data that compounds — the new data layer that makes work legible to agents
+2. Distribution and discovery — human attention is finite; agent-to-agent discovery is an infrastructure problem
+3. Taste / judgment density — "LLMs veer towards the mean. Taste is deviation with conviction."
+4. Trust and verification — "Ground truth — facts that are assertive and verifiable, not probabilistic — becomes the scarce layer." Know Your Agent is the identity problem of the agentic era.
+5. Sense-making — "In a world flooded with cheap answers, the scarce capability is knowing which questions to ask."
+6. New AI hardware — situational, use-case-specific devices gathering contextual data (Stream ring, Ear Labs, etc.)
+7. Physical infrastructure and energy
+8. Regulatory moats
+9. Agentic organizations — "Coase's floor drops but coordination costs don't vanish, they move to orchestration."
+10. Time scarcity and manufactured scarcity
+
+Key quote: "The Next AI Moat Isn't the Model. It's Memory" — directly aligns with approved thought leadership angle.
+
+Portfolio companies referenced in newsletters: Granola (meeting memory), Plastic Labs (memory/identity infrastructure), Math Inc. (verification infrastructure), Sandbar/era.computer (new wave hardware), Ear Labs (Stream ring context).
+
+These newsletters live on a semi-private Substack. John is open to them entering the public sphere but wants depth preserved — not reduced to clickbait sound bites. Use these as source material for pitching and thought leadership, not as quotable public documents without clearing first.
 `;
 
 module.exports = { SYSTEM_PROMPT };
+
+// APPENDED KNOWLEDGE — April 24, 2026
