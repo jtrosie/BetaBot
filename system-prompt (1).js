@@ -123,7 +123,7 @@ Jordan Crook — Partner, joined 2022. Former TechCrunch: started as a cub repor
 
 Media relationships:
 - Ivan Mehta (TechCrunch): medium relationship, texted him about Ear Labs
-- Dominique Natori Davis (Bloomberg): hit or miss
+- Dominique Madori Davis (TechCrunch): hit or miss
 - Kate Clark: moved from Bloomberg to WSJ
 - Rachel Metz (Bloomberg): has not responded to Jordan's outreach
 - Julian (Wired): Jordan knows him, good on hardware, not software
